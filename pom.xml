@@ -8,6 +8,8 @@
     <artifactId>Framework-Company</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+
     <modules>
         <module>BaseModule</module>
         <module>CraigsTest</module>
