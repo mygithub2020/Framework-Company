@@ -7,7 +7,7 @@
     </list>
     <ignored path="Framework-Company.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388871721182" ignored="false" />
+    <file path="/pom.xml" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388872825089" ignored="false" />
     <file path="/Base.java" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388868373298" ignored="false" />
     <file path="/TestingLogInFunction.java" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388868787545" ignored="false" />
     <file path="$PROJECT_DIR$/../Sel_framework/cnn/src/test/java/TestApp.java" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388653511749" ignored="false" />
@@ -17,7 +17,7 @@
     <file path="$PROJECT_DIR$/CraigsTest/target/surefire-reports/TEST-TestingLogInFunction.xml" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388655322317" ignored="false" />
     <file path="$PROJECT_DIR$/CraigsTest/target/surefire-reports/TestingLogInFunction/Command line test.xml" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388655322317" ignored="false" />
     <file path="/runner1.xml" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388775172002" ignored="false" />
-    <file path="/Dummy.txt" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388871941995" ignored="false" />
+    <file path="/Dummy.txt" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388872579193" ignored="false" />
     <file path="/Registration_Test.java" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388868894142" ignored="false" />
     <file path="/CraigsBase.java" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388799013544" ignored="false" />
     <file path="/JobsLinkTest.java" changelist="81e29297-8aed-4f60-b966-d78eb9e2a422" time="1388868939826" ignored="false" />
@@ -119,7 +119,16 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="8" selection-start="601" selection-end="601" vertical-scroll-proportion="0.15962441">
+            <state line="59" column="64" selection-start="1902" selection-end="1902" vertical-scroll-proportion="0.9407666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CraigsTest.iml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CraigsTest/CraigsTest.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -182,16 +191,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CraigsTest/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="43" selection-start="2069" selection-end="2069" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SuiteRunner.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8.5/testng-6.8.5.jar!/org/testng/SuiteRunner.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="146" column="20" selection-start="8245" selection-end="8245" vertical-scroll-proportion="0.0">
+            <state line="31" column="23" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -313,6 +313,12 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
         </PATH_ELEMENT>
       </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
     </treeState>
   </component>
   <component name="MavenRunner">
@@ -401,6 +407,72 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework-Company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CraigsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework-Company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CraigsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework-Company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CraigsTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -412,7 +484,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="reference.settings.project.maven.runner" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -756,7 +828,15 @@
       <created>1388871946608</created>
       <updated>1388871946608</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="first commit">
+      <created>1388872260702</created>
+      <updated>1388872260702</updated>
+    </task>
+    <task id="LOCAL-00017" summary="first commit">
+      <created>1388872582564</created>
+      <updated>1388872582564</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -777,7 +857,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33724654" sideWeight="0.6907675" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13874066" sideWeight="0.6907675" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30923247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30923247" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32925472" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -855,13 +935,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BaseModule/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="12" selection-start="2075" selection-end="2075" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BaseModule/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="2" selection-start="277" selection-end="277" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -929,13 +1002,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CraigsTest/src/test/Resources/runner1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="92" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CraigsTest/src/test/java/JobsLinkTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="12" selection-start="816" selection-end="816" vertical-scroll-proportion="0.0">
@@ -943,16 +1009,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CraigsTest/CraigsTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CraigsTest/src/test/Resources/runner1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="92" selection-start="465" selection-end="465" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CraigsTest/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="43" selection-start="2069" selection-end="2069" vertical-scroll-proportion="0.0">
+        <state line="31" column="23" selection-start="1182" selection-end="1182" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="601" selection-end="601" vertical-scroll-proportion="0.15962441">
+        <state line="59" column="64" selection-start="1902" selection-end="1902" vertical-scroll-proportion="0.9407666">
           <folding />
         </state>
       </provider>

@@ -43,6 +43,23 @@
 
    </dependencyManagement>
 
+    <profiles>
+        <profile>
+            <id>all</id>
+            <modules>
+                <module>BaseModule</module>
+                <module>CraigsTest</module>
+            </modules>
+        </profile>
+        <profile>
+            <id> craigslist-1</id>
+            <modules>
+                <module>BaseModule</module>
+                <module>CraigsTest</module>
+            </modules>
+        </profile>
+    </profiles>
+
     <build>
         <plugins>
             <plugin>
