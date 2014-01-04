@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------
+Test set: TestingLogInFunction
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 11.642 sec <<< FAILURE!
+logIn_Test(TestingLogInFunction)  Time elapsed: 4.302 sec  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: Unable to locate element: {"method":"xpath","selector":".//*[@id='ef']/a[1]"}
+Command duration or timeout: 9 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.38.0', revision: 'bd32d4e7247a32d801b3d2d4f84a4e7384300378', time: '2013-12-05 09:01:37'
+System info: host: 'OutlawTech', ip: '192.168.223.1', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_21'
+Session ID: 5f777a2f-e37d-45c2-bba2-53f3916e1574
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=XP, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, browserConnectionEnabled=true, webStorageEnabled=true, nativeEvents=false, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=26.0}]
+	at <anonymous class>.FirefoxDriver.prototype.findElementInternal_(file:///C:/Users/Sharma/AppData/Local/Temp/anonymous7825626479689283952webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8860)
+	at <anonymous class>.FirefoxDriver.prototype.findElement(file:///C:/Users/Sharma/AppData/Local/Temp/anonymous7825626479689283952webdriver-profile/extensions/fxdriver@googlecode.com/components/driver_component.js:8869)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_/h(file:///C:/Users/Sharma/AppData/Local/Temp/anonymous7825626479689283952webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10831)
+	at <anonymous class>.DelayedCommand.prototype.executeInternal_(file:///C:/Users/Sharma/AppData/Local/Temp/anonymous7825626479689283952webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10836)
+	at <anonymous class>.DelayedCommand.prototype.execute/<(file:///C:/Users/Sharma/AppData/Local/Temp/anonymous7825626479689283952webdriver-profile/extensions/fxdriver@googlecode.com/components/command_processor.js:10778)
+
