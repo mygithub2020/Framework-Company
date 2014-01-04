@@ -49,9 +49,9 @@
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.14.1</version>
                 <configuration>
-                   <!-- <suiteXmlFiles>
+                    <suiteXmlFiles>
                         <suitXmlFile>target/test-classes/${testFile}</suitXmlFile>
-                    </suiteXmlFiles>-->
+                    </suiteXmlFiles>
                 </configuration>
             </plugin>
         </plugins>
